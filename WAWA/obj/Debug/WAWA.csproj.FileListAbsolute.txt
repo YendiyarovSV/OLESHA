@@ -1,0 +1,6 @@
+c:\users\lector2\documents\visual studio 2015\Projects\WAWA\WAWA\bin\Debug\WAWA.exe.config
+c:\users\lector2\documents\visual studio 2015\Projects\WAWA\WAWA\bin\Debug\WAWA.exe
+c:\users\lector2\documents\visual studio 2015\Projects\WAWA\WAWA\bin\Debug\WAWA.pdb
+c:\users\lector2\documents\visual studio 2015\Projects\WAWA\WAWA\obj\Debug\WAWA.csprojResolveAssemblyReference.cache
+c:\users\lector2\documents\visual studio 2015\Projects\WAWA\WAWA\obj\Debug\WAWA.exe
+c:\users\lector2\documents\visual studio 2015\Projects\WAWA\WAWA\obj\Debug\WAWA.pdb
