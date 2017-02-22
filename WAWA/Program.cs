@@ -12,6 +12,7 @@ namespace WAWA
         static void Main(string[] args)
         {
             Console.WriteLine("OLESHA");
+            Console.WriteLine("OLESHA2");
             Console.ReadLine();
         }
     }
