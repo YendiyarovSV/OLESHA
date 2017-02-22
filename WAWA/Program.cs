@@ -13,6 +13,7 @@ namespace WAWA
         {
             Console.WriteLine("OLESHA");
             Console.WriteLine("OLESHA2");
+            Console.WriteLine("OLESHA_NOOBAS");
             Console.ReadLine();
         }
     }
